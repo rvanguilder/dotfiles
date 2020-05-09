@@ -8,6 +8,6 @@ A super simple .vimrc file.
 
 A super simple .tmux.conf file.
 
-## .bashrc_extended
+## bash
 
-Some entries that can be added to the .bashrc file.
+The .bashrc_extended file has some entries that can be added to the .bashrc file.
